@@ -3,7 +3,7 @@ import styles from './App.css';
 import io from 'socket.io-client';
 import MessageForm from './MessageForm';
 import MessageList from './MessageList';
-import UsersList from './UsersList';
+import UserList from './UserList';
 import UserForm from './UserForm';
 
 
